@@ -1,4 +1,4 @@
-# python-challenge
-Module 3 Python Challenge
-Analysis of PyBank and PyPoll
+# Python Challenge
+
+Analysis of Banking Data and Polling Data
 -Bryson Bosley
